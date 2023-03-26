@@ -3,19 +3,19 @@
 		{
 			"Title": "Thriller",
 			"Artist": "Michael Jackson",
-			"Songs": ["Wanna Be Startin' Somethin'", "Thriller", "Beat It", "Billie Jean", "Human Nature"],
+			"Songs": ["Thriller", "Beat It", "Billie Jean"],
 			"Year": "1982"
 		},
 		{
 			"Title": "The Dark Side of the Moon",
 			"Artist": "Pink Floyd",
-			"Songs": ["Speak to Me", "Breathe", "On the Run", "Time", "The Great Gig in the Sky"],
+			"Songs": ["Speak to Me", "Breathe", "On the Run"],
 			"Year": "1973"
 		},
 		{
 			"Title": "Rumours",
 			"Artist": "Fleetwood Mac",
-			"Songs": ["Second Hand News", "Dreams", "Never Going Back Again", "Don't Stop", "Go Your Own Way"],
+			"Songs": ["Second Hand News", "Dreams", "Don't Stop"],
 			"Year": "1977"
 		}
 	]
